@@ -3,7 +3,7 @@
 <p align="center">
   <img alt=working src="https://img.shields.io/badge/working-web/mobile-3c9" />
   <img alt=freelancing src="https://img.shields.io/badge/job-remote-brightgreen" />
-  <img alt=living src="https://img.shields.io/badge/living-Nepal-blue" />
+  <img alt=living src="https://img.shields.io/badge/Place-Nepal-blue" />
 </p>
 
 <!-- <img align=right alt="working from home" src="https://media2.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47tvlg13pl67fowrmt9zjkmkkt06lb2qkm3691xltv&rid=giphy.gif&ct=g" /> -->
