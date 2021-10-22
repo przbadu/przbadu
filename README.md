@@ -6,7 +6,7 @@
   <img alt=living src="https://img.shields.io/badge/living-Nepal-blue" />
 </p>
 
-<!--<img alt="working from home" src="https://media3.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=790b7611bcf25ebb2917e65d8be101468a01d574041699bf&rid=giphy.gif&ct=g" />-->
+<!-- <img align=right alt="working from home" src="https://media2.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47tvlg13pl67fowrmt9zjkmkkt06lb2qkm3691xltv&rid=giphy.gif&ct=g" /> -->
 
 #### Pushpa Raj Badu has been working professionally as Ruby on Rails developer from 2012.
 
