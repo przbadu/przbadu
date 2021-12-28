@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Pushpa Raj Badu a.k.a `przbadu` on the internet.
 
-<p align="center">
+<p align="left">
   <img alt=working src="https://img.shields.io/badge/working-web/mobile-3c9" />
   <img alt=freelancing src="https://img.shields.io/badge/job-remote-brightgreen" />
   <img alt=living src="https://img.shields.io/badge/Place-Nepal-blue" />
