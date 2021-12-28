@@ -10,8 +10,8 @@
 
 #### Pushpa Raj Badu has been working professionally as Ruby on Rails developer from 2012.
 
-- 💰  Currently employed at <a href="https://procurementexpress.com" target='_blank'>Procurementexpress</a>
-- 🌱 Learning react native and 🚀 building personal finanace mobile application (link will be disclosed soon)
+- 💰  Currently employed at <a href="https://procurementexpress.com" target='_blank'>ProcurementExpress.com</a> as a Freelancer.
+<!-- - 🌱 Learning react native and 🚀 building personal finanace mobile application (link will be disclosed soon) -->
 - ⚡ Fun fact: I know its crazy, but I love to write code
 
 - 📫 How to reach me:
