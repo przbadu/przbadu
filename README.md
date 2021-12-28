@@ -1,4 +1,4 @@
-### Hi there 👋 I am Pushpa Raj Badu but you can call me Push 😄
+### Hi there 👋 I am Pushpa Raj Badu a.k.a `przbadu` on the internet.
 
 <p align="center">
   <img alt=working src="https://img.shields.io/badge/working-web/mobile-3c9" />
