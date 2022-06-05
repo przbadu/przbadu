@@ -1,4 +1,4 @@
-### Hi there 👋 I am Pushpa Raj Badu a.k.a `przbadu` on the internet.
+### Hi there 👋 I am Pushpa Raj Badu. I'm a web developer and blogger working as a Freelancer..
 
 <p align="left">
   <img alt=working src="https://img.shields.io/badge/working-web/mobile-3c9" />
@@ -8,15 +8,17 @@
 
 <!-- <img align=right alt="working from home" src="https://media2.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47tvlg13pl67fowrmt9zjkmkkt06lb2qkm3691xltv&rid=giphy.gif&ct=g" /> -->
 
-#### Pushpa Raj Badu has been working professionally as Ruby on Rails developer from 2012.
+#### About Me
+
+Enthusiastic Ruby on Rails Engineer eager to contribute to team success through
+hard work, attention to detail and excellent organizational and communication
+skills. Motivated to learn, grow and excel in software industry.
 
 - 💰  Currently employed at <a href="https://procurementexpress.com" target='_blank'>ProcurementExpress.com</a> as a Freelancer.
 <!-- - 🌱 Learning react native and 🚀 building personal finanace mobile application (link will be disclosed soon) -->
 - ⚡ Fun fact: I know its crazy, but I love to write code
-
 - 📫 How to reach me:
-
-<p align="center">
+<p align="left">
     <a href="mailto:pushparaj.badu@gmail.com" target="blank">
         <img align="center" alt="Gmail" width="100px" src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> &nbsp; &nbsp;
     </a>
