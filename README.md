@@ -10,9 +10,9 @@
 
 #### About Me
 
-Enthusiastic Ruby on Rails Engineer eager to contribute to team success through
+I am an enthusiastic Ruby on Rails Engineer eager to contribute to team success through
 hard work, attention to detail and excellent organizational and communication
-skills. Motivated to learn, grow and excel in software industry.
+skills. I am Motivated to learn, grow and excel in software industry.
 
 - 💰  Currently employed at <a href="https://procurementexpress.com" target='_blank'>ProcurementExpress.com</a> as a Freelancer.
 <!-- - 🌱 Learning react native and 🚀 building personal finanace mobile application (link will be disclosed soon) -->
