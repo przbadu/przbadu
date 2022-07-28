@@ -1,4 +1,4 @@
-### Hi there 👋 I am Pushpa Raj Badu. I'm a web developer and blogger working as a Freelancer..
+### Hi there 👋 I am Pushpa Raj Badu. I'm a web developer, blogger, Freelancer.
 
 <p align="left">
   <img alt=working src="https://img.shields.io/badge/working-web/mobile-3c9" />
