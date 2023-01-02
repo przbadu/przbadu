@@ -1,14 +1,19 @@
-### Hi there 👋 I am Pushpa Raj Badu. I'm a web developer, blogger, Freelancer.
-
 <p align="left">
   <img alt=working src="https://img.shields.io/badge/working-web/mobile-3c9" />
   <img alt=freelancing src="https://img.shields.io/badge/job-remote-brightgreen" />
   <img alt=living src="https://img.shields.io/badge/Place-Nepal-blue" />
 </p>
 
-<!-- <img align=right alt="working from home" src="https://media2.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47tvlg13pl67fowrmt9zjkmkkt06lb2qkm3691xltv&rid=giphy.gif&ct=g" /> -->
 
-#### About Me
+
+  <a href="https://github.com/przbadu">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F77346&repeat=false&width=435&lines=Pushpa+Raj+Badu" alt="Pushpa Raj Badu" /></a>
+
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77346&width=435&lines=Full-stack+web+and+mobile+Developer;10%2B+years+of+professional+experience;Eger+to+learn+new+Tech+Stack)](https://git.io/typing-svg)
+
+## Little More About Me
 
 I am an enthusiastic Ruby on Rails Engineer eager to contribute to team success through
 hard work, attention to detail and excellent organizational and communication
@@ -17,7 +22,11 @@ skills. I am Motivated to learn, grow and excel in software industry.
 - 💰  Currently employed at <a href="https://procurementexpress.com" target='_blank'>ProcurementExpress.com</a> as a Freelancer.
 <!-- - 🌱 Learning react native and 🚀 building personal finanace mobile application (link will be disclosed soon) -->
 - ⚡ Fun fact: I know its crazy, but I love to write code
-- 📫 How to reach me:
+
+- 🌱 I am Learning Flutter and loving it
+
+
+
 <p align="left">
     <a href="mailto:pushparaj.badu@gmail.com" target="blank">
         <img align="center" alt="Gmail" width="100px" src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> &nbsp; &nbsp;
@@ -30,21 +39,12 @@ skills. I am Motivated to learn, grow and excel in software industry.
     </a>
 </p>
 
-<!-- - 🧰 Languages and Tools: -->
-<!-- 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/ruby.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-</p>   -->
+<hr />
 
+<br />
+<br />
 
 <a href="https://github.com/przbadu">
   <img align="left" width="300" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=przbadu&layout=compact&theme=material-palenight" />
 </a>
-<!-- 
-<a href="https://github.com/przbadu">
-  <img align="right" width="300" height="120" src="https://github-readme-stats.vercel.app/api?username=przbadu&count_private=true&show_icons=true&theme=material-palenight" />
-</a>
- -->
 
