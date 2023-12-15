@@ -11,7 +11,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77346&width=435&lines=Full-stack+web+and+mobile+Developer;10%2B+years+of+professional+experience;Eger+to+learn+new+Tech+Stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77346&width=435&lines=Full-stack+web+and+mobile+Developer;Decade+of+professional+experience;Eger+to+learn+new+Tech+Stack)](https://git.io/typing-svg)
 
 ## Little More About Me
 
