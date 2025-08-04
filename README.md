@@ -1,19 +1,16 @@
 <p align="left">
-  <img alt=working src="https://img.shields.io/badge/working-web/mobile-3c9" />
+  <img alt=working src="https://img.shields.io/badge/working-web/mobile/AI/ML/LLM-3c9" />
   <img alt=freelancing src="https://img.shields.io/badge/job-remote-brightgreen" />
   <img alt=living src="https://img.shields.io/badge/Place-Nepal-blue" />
 </p>
 
+## About Me
 
+Hi, My name is: **Pushpa Raj Badu**
 
-  <a href="https://github.com/przbadu">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F77346&repeat=false&width=435&lines=Pushpa+Raj+Badu" alt="Pushpa Raj Badu" /></a>
-
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77346&width=435&lines=Full-stack+web+and+mobile+Developer;Decade+of+professional+experience;Eger+to+learn+new+Tech+Stack)](https://git.io/typing-svg)
-
-## Little More About Me
+- I am Full-Stack Web and Mobile app developer, currently exploring the world of AI/ML and LLMs.
+- I have Decade of professional software development experience.
+- I am eager to learn new technology and adapt them.
 
 I am an enthusiastic Ruby on Rails Engineer eager to contribute to team success through
 hard work, attention to detail and excellent organizational and communication
@@ -22,7 +19,29 @@ skills. I am Motivated to learn, grow and excel in software industry.
 - 💰  Freelancing
 - ⚡   Relentless Improvements
 - 🚀  1% Better Everyday, Embrase imperfection and keep improving everyday.
+- 🇳🇵 Based in Nepal
 
+## What I bring to the Team
+
+```ruby
+class PushpaRajBadu < Developer
+  def initialize
+    @skills = {
+      backend: ['Ruby on Rails', 'API Design', 'Database Optimization'],
+      frontend: ['React', 'Vue.js', 'TypeScript', 'Responsive Design'],
+      mobile: ['React Native', 'Flutter', 'Progressive Web Apps'],
+      ai_ml: ['OpenAI Integration', 'Machine Learning', 'LLM Applications'],
+      soft_skills: ['Team Leadership', 'Client Communication', 'Problem Solving']
+    }
+    @experience = '10+ years'
+    @availability = 'Remote Worldwide'
+  end
+
+  def current_focus
+    "Building AI-powered applications that solve real-world problems"
+  end
+end
+```
 
 <p align="left">
     <a href="mailto:pushparaj.badu@gmail.com" target="_blank" style="text-decoration:none">
