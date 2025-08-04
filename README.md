@@ -55,12 +55,4 @@ end
     </a>
 </p>
 
-<hr />
-
-<br />
-<br />
-
-<a href="https://github.com/przbadu">
-  <img align="left" width="300" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=przbadu&layout=compact&theme=material-palenight" />
-</a>
 
