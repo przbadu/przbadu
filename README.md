@@ -27,7 +27,7 @@ skills. I am Motivated to learn, grow and excel in software industry.
 class PushpaRajBadu < Developer
   def initialize
     @skills = {
-      backend: ['Ruby on Rails', 'API Design', 'Database Optimization'],
+      backend: ['Ruby on Rails', 'Python', 'Node.js', 'API Design', 'Database Optimization'],
       frontend: ['React', 'Vue.js', 'TypeScript', 'Responsive Design'],
       mobile: ['React Native', 'Flutter', 'Progressive Web Apps'],
       ai_ml: ['OpenAI Integration', 'Machine Learning', 'LLM Applications'],
