@@ -21,6 +21,9 @@ skills. I am Motivated to learn, grow and excel in software industry.
 - 🚀  1% Better Everyday, Embrase imperfection and keep improving everyday.
 - 🇳🇵 Based in Nepal
 
+## Contact Me
+contact@przbadu.dev
+
 ## What I bring to the Team
 
 ```ruby
