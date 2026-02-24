@@ -47,7 +47,7 @@ end
 ```
 
 <p align="left">
-    <a href="mailto:pushparaj.badu@gmail.com" target="_blank" style="text-decoration:none">
+    <a href="mailto:contact@przbadu.dev" target="_blank" style="text-decoration:none">
         <img align="center" alt="Gmail" width="100px" src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> &nbsp; &nbsp;
     </a>
     <a href="https://github.com/przbadu" target="_blank" style="text-decoration:none">
