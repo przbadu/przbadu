@@ -21,12 +21,12 @@ skills. I am Motivated to learn, grow and excel in software industry.
 - 🚀  1% Better Everyday, Embrase imperfection and keep improving everyday.
 - 🇳🇵 Based in Nepal
 
-## Contact or visit to know more about me
-- contact me at: contact@przbadu.dev
-- website: https://przbadu.dev/
-- Blog: https://blog.przbadu.dev/
+## Want to know more about me?
+- Get in touch: contact@przbadu.dev
+- Visit website: https://przbadu.dev/
+- Read Blog Articles: https://blog.przbadu.dev/
 - Benchmark Tools: https://przbadu.github.io/strix-halo-benchmarks/
-- LinkedIn: https://www.linkedin.com/in/przbadu
+- Visit LinkedIn: https://www.linkedin.com/in/przbadu
 
 ## What I bring to the Team
 
