@@ -26,7 +26,7 @@ skills. I am Motivated to learn, grow and excel in software industry.
 - Visit website: https://przbadu.dev/
 - Read Blog Articles: https://blog.przbadu.dev/
 - Benchmark Tools: https://przbadu.github.io/strix-halo-benchmarks/
-- Visit LinkedIn: https://www.linkedin.com/in/przbadu
+- LinkedIn Profile: https://www.linkedin.com/in/przbadu
 - Upwork Profile: https://www.upwork.com/freelancers/~01a6a6a15c3da50349?viewMode=1
 
 ## What I bring to the Team
